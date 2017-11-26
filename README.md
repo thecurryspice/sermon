@@ -11,6 +11,7 @@ Striked through options are on to-do list.
 + ~~Keyboard shortcuts' mapping~~
 + ~~Auto-send specific text periodically~~
 + Different levels of verbose modes for debugging
++ ~~Colour-coded verbose output~~
 + ~~Save port configuration~~
 + ~~Save a serial session to custom file~~
 + ~~Multiple sessions in different tabs~~
